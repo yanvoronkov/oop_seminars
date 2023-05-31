@@ -11,6 +11,17 @@ public class VendingMachine {
         this.products = products;
     }
 
+    public Chocolate getChocolate(String cocoaContent){
+        for (Product product : products){
+            if (product instanceof Chocolate){
+                if (((Chocolate)product).getTypeOfChocolate(cocoaContent).equals(cocoaContent)){
+                    return (Chocolate)product;
+                }
+            }
+        }
+        return null;
+    }
+
     public BottleOfWater getBottleOfWater(double volume){
         for (Product product : products){
             if (product instanceof BottleOfWater){
@@ -21,5 +32,6 @@ public class VendingMachine {
         }
         return null;
     }
+
 
 }
