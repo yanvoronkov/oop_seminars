@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22bd13e5-fe5c-491b-9b8f-25fd36f00a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/Chocolate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/Plate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson1/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson1/VendingMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +48,30 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TODO_SCOPE": "All Places",
+    "last_opened_file_path": "/Users/yan/Desktop/web_developer/GeekBrains/OOP_Seminars/src/main/java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson2.MainClass" />
+      <module name="OOP_Seminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson1.Program" />
       <module name="OOP_Seminars" />
@@ -67,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
