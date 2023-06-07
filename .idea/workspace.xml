@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22bd13e5-fe5c-491b-9b8f-25fd36f00a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/task1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/task1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/task1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/task1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/task2/AgeSalaryComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/task2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/task2/Freelancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/task2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/task2/SalaryComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/task2/SurnameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson3/task2/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +66,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson3.task2" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MainClass">
+  <component name="RunManager" selected="Application.lesson3.task2.Program">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson2.MainClass" />
       <module name="OOP_Seminars" />
@@ -85,8 +97,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lesson3.task1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.task1.Program" />
+      <module name="OOP_Seminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson3.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson3.task2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson3.task2.Program" />
+      <module name="OOP_Seminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson3.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson3.task2.Program" />
+        <item itemvalue="Application.lesson3.task1.Program" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Program" />
       </list>
