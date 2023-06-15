@@ -5,30 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22bd13e5-fe5c-491b-9b8f-25fd36f00a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/AccountIdentifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/Accountable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/CreditAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/DebetAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/SimpleAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/UniversalAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/bank/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/bank/CreditAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/bank/DebetAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/bank/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/bank/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/bank/PersonalData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/bank/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/bank/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson4/homework/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/models/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/models/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/models/TableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/presenters/BookingPresenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/presenters/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/presenters/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/presenters/ViewObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/views/BookingView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +67,13 @@
       <recent name="lesson3.task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson4.homework.Program">
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.MainClass" />
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson5.Program" />
       <module name="OOP_Seminars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2.*" />
+          <option name="PATTERN" value="lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.lesson4.homework.Program" />
         <item itemvalue="Application.lesson4.Program" />
         <item itemvalue="Application.lesson3.task2.Program" />
         <item itemvalue="Application.lesson3.task1.Program" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
