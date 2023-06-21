@@ -5,15 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22bd13e5-fe5c-491b-9b8f-25fd36f00a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/models/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/models/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/models/TableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/presenters/BookingPresenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/presenters/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/presenters/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/presenters/ViewObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson5/views/BookingView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/CreditCardPayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/InternetPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/Payable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/PhonePayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/TerminalPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/WebMoneyPayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/lsp1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/ShapeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/ShapeV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/SimpleDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/SimpleDrawerV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/SquareV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp1/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp1/SquareDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp2/InputFromConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp2/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp2/OrderCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp2/OutputToConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp2/SaveToJson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,42 +82,17 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson6.srp2" />
       <recent name="lesson3.task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.lesson6.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson5.Program" />
       <module name="OOP_Seminars" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson3.task1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.task1.Program" />
-      <module name="OOP_Seminars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson3.task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson3.task2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.task2.Program" />
-      <module name="OOP_Seminars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson3.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +126,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lesson6.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.Program" />
+      <module name="OOP_Seminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson6.srp1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson6.srp1.Program" />
+      <module name="OOP_Seminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson6.srp1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson6.Program" />
+        <item itemvalue="Application.lesson6.srp1.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.lesson4.homework.Program" />
         <item itemvalue="Application.lesson4.Program" />
-        <item itemvalue="Application.lesson3.task2.Program" />
-        <item itemvalue="Application.lesson3.task1.Program" />
       </list>
     </recent_temporary>
   </component>
