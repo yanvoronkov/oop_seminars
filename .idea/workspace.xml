@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22bd13e5-fe5c-491b-9b8f-25fd36f00a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/AdapterTS500Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/MS200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/MeteoSensor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/MeteoSensorSimple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/MeteoStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/ST500Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/SensorTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/bulder/MailMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/bulder/MailMessageBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/bulder/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/JobAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Master.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Vacancy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/VacancyType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/singleton/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/singleton/Settings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="22bd13e5-fe5c-491b-9b8f-25fd36f00a3b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

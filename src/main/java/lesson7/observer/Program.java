@@ -36,13 +36,6 @@ public class Program {
         agency.getObservers();
 
 
-
-        // Аналогично создаются экземпляры классов Master и Students
-
-        // В консоли должно вывестись:
-        // John Smith - мне нужна эта работа
-        // Вакансия занята соискателем John Smith и удалена
-        // Mary Johnson - Мне не подходит эта вакансия
     }
 
 }
