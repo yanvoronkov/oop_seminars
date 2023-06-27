@@ -5,33 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22bd13e5-fe5c-491b-9b8f-25fd36f00a3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/order.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/CreditCardPayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/InternetPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/PhonePayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/TerminalPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/isp/WebMoneyPayable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/lsp1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/ShapeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/ShapeV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/SimpleDrawer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/SimpleDrawerV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/ocp1/SquareV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp1/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp1/SquareDrawer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp2/InputFromConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp2/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp2/OrderCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp2/OutputToConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/srp2/SaveToJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/AdapterTS500Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/MS200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/MeteoSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/MeteoSensorSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/MeteoStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/ST500Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/adapter/SensorTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/bulder/MailMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/bulder/MailMessageBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/bulder/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/JobAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/Vacancy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/observer/VacancyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/singleton/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/singleton/Settings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,58 +64,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yan/Desktop/web_developer/GeekBrains/OOP_Seminars/src/main/java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TODO_SCOPE": "All Places",
+    "last_opened_file_path": "/Users/yan/Desktop/Inbox/web_developer/GeekBrains/OOP_Seminars"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson7.observer" />
       <recent name="lesson6.srp2" />
       <recent name="lesson3.task2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson6.Program">
+  <component name="RunManager" selected="Application.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson5.Program" />
+      <option name="MAIN_CLASS_NAME" value="lesson7.observer.Program" />
       <module name="OOP_Seminars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson4.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson4.Program" />
-      <module name="OOP_Seminars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lesson4.homework.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson4.homework.Program" />
-      <module name="OOP_Seminars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson4.homework.*" />
+          <option name="PATTERN" value="lesson7.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +111,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lesson6.srp1.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson6.srp1.Program" />
+    <configuration name="lesson7.adapter.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.adapter.Program" />
       <module name="OOP_Seminars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson6.srp1.*" />
+          <option name="PATTERN" value="lesson7.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson7.bulder.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.bulder.Program" />
+      <module name="OOP_Seminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.bulder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson7.singleton.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.singleton.Program" />
+      <module name="OOP_Seminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lesson6.Program" />
-        <item itemvalue="Application.lesson6.srp1.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.lesson4.homework.Program" />
-        <item itemvalue="Application.lesson4.Program" />
+        <item itemvalue="Application.lesson7.adapter.Program" />
+        <item itemvalue="Application.lesson7.bulder.Program" />
+        <item itemvalue="Application.lesson7.singleton.Program" />
+        <item itemvalue="Application.lesson6.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -175,5 +173,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
